@@ -1,0 +1,27 @@
+# hexAI
+
+**Dynamische Uitbreiding van de Relativiteitstheorie via Binaire Matrixtransformatie**
+
+## Inleiding
+
+Deze theorie is ontstaan uit het onderzoek naar binaire representaties van klassieke formules uit de relativiteitstheorie. Door gebruik te maken van matrixtransformaties (transpositie, rotatie, verschuiving) en diverse hashingtechnieken, zijn nieuwe structurele inzichten ontdekt die leidden tot een voorstel voor een dynamisch veldmodel van ruimte-tijd.
+
+## Kernformule
+
+∀f, 𝓘(f) ⇒ ExtendedRelativity(f)  
+waarbij 𝓘(f) = T(f) + R(f) + S(f)
+
+- **T(f)**: Symmetrieverschuiving (gravitationele vervorming)  
+- **R(f)**: Rotatie (veldoriëntatie of massakromming)  
+- **S(f)**: Verplaatsing (versnelling, momentum)  
+
+## Structuur
+
+```
+ExtendedRelativity(f) = Dynamic(SpaceTime(f))
+SpaceTime(f) = SymmetryShift(T) + CurvatureChange(R) + MomentumDrift(S)
+```
+
+## Doel
+
+Een theoretische basis leggen voor een nieuw natuurkundig veldmodel, waarin dynamiek, binaire representatie en formule-interactie centraal staan.9547304dc56e95caa4b8c878884ef25a8b086fc0aa657411f40228cfd9803da8
