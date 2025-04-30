@@ -1,0 +1,53 @@
+HexAI: Dynamisch Zelforganiserend Systeem
+
+HexAI is een dynamisch zelf-organiserend systeem gebaseerd op relativiteit en zon-invloed, waarbij de cellen in het systeem interactie hebben met elkaar door middel van spanningsverschillen en verbonden netwerken. Het systeem simuleert dynamische interacties tussen cellen door potentiaalverschillen, stroom en weerstand te gebruiken, die evolueren op basis van de interacties van de cellen onderling en de externe zon-invloed.
+
+Hoe het werkt:
+
+Potentiaalverschillen (Spanning): Elke cel in het HexAI-systeem heeft een potentiaal
+ϕi\phi_i
+ϕi​
+, die het vermogen van de cel om energie te ontvangen en door te geven weergeeft. De spanning tussen twee cellen wordt gedefinieerd als het verschil in potentiaal tussen de twee cellen:
+
+Vij=ϕi−ϕjV_{ij} = \phi_i - \phi_j
+Vij​=ϕi​−ϕj​
+
+Dit maakt de spanning tussen cellen een dynamische variabele, afhankelijk van hun relatieve posities en interacties.
+
+Stroom: De stroom tussen twee cellen wordt berekend als het verschil in spanning tussen de cellen, gedeeld door de weerstand van de verbinding tussen de cellen:
+
+Aij=ϕi−ϕjΩijA_{ij} = \frac{\phi_i - \phi_j}{\Omega_{ij}}
+Aij​=Ωij​ϕi​−ϕj​​
+
+Waarbij
+Ωij\Omega_{ij}
+Ωij​
+deweerstand is van de verbinding tussen de twee cellen.
+
+Dynamische Weerstand per Verbinding: De weerstand tussen twee cellen
+Ωij\Omega_{ij}
+Ωij​
+isdynamisch en kan veranderen afhankelijk van de toestand van de cellen en de stroom die door de verbinding vloeit. Dit maakt de interacties tussen de cellen zeer dynamisch en afhankelijk van de veranderingen in potentiaal en energie.
+
+Faseshift van Massa naar Energie: De toestandsovergang tussen massa en energie wordt bepaald door de spanning tussen cellen en hun historie van spanning. Als de gemiddelde spanning tussen de cellen een bepaalde drempel overschrijdt, verandert de toestand van de cel van massa naar energie:
+
+toestandi(t+1)={"energie"als 16∑k=16Vi→nk(t+1)>drempel+historie(t)"massa"anders\text{toestand}_i(t+1) = \begin{cases} \text{"energie"} & \text{als } \frac{1}{6} \sum_{k=1}^{6} V_{i \to n_k}(t+1) > \text{drempel} + \text{historie}(t) \\ \text{"massa"} & \text{anders} \end{cases}
+toestandi​(t+1)={"energie""massa"​als 61​∑k=16​Vi→nk​​(t+1)>drempel+historie(t)anders​
+
+Simulatie en Dynamische Interacties: Het systeem evolueert dynamisch door de interacties van spanning, stroom en weerstand tussen de cellen. De zon-invloed (die afhankelijk is van de afstand tot de centrale zon en de tijd) beïnvloedt de spanning en stroom van de cellen. Dit zorgt ervoor dat het systeem op basis van lokale interacties tussen cellen zich aanpast en zich organiseert op verschillende tijdsschalen.
+
+
+
+Bescherming en Licentie
+
+Deze technologie is beschermd en onderworpen aan de volgende licentievoorwaarden:
+
+Niet-commercieel gebruik: De technologie mag alleen voor privé-experimenten en niet-commercieel gebruik worden gebruikt, zoals thuisexperimenten en hobbyprojecten.
+
+Commercieel of institutioneel gebruik: Alle vormen van commercieel gebruik van de technologie zijn verboden zonder een schriftelijke licentieovereenkomst met de auteur. Commercieel gebruik omvat financieel gewin van de technologie, bijvoorbeeld in producten of diensten.
+
+Licentie aanvragen: Voor commercieel gebruik kan een licentie worden aangevraagd door contact op te nemen met de auteur van de technologie via de GitHub repository.
+
+Aansprakelijkheid: De auteur is niet aansprakelijk voor enige schade die voortkomt uit het gebruik van deze technologie. Het gebruik van deze technologie gebeurt volledig op eigen risico.
+
+Herdrukken en delen: Je mag de technologie niet openbaar herdrukken en delen zonder toestemming.
