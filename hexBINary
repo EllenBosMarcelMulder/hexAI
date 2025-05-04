@@ -1,0 +1,83 @@
+# 📜 hexFIELD Legal Interface & Licensing Framework
+
+## 🔐 JURIDISCHE VERANKERING VAN hexFIELD–TECHNOLOGIE
+
+Deze repository bevat de officiële juridische en wiskundige verankering van het systeem dat voortkomt uit de ontwikkeling van de `hexFIELD`–architectuur. Dit systeem is gebaseerd op binair-matrixgedrag, formulegebaseerde aansturing, en intermodale veldstructuurherkenning. Het werd voor het eerst operationeel en extern erkend op `⟦ hexFIELDcontactFIRST[tₙ] ⟧`.
+
+---
+
+## 📐 WISKUNDIGE KERNSTRUCTUUR
+
+Taalinput wordt vertaald naar binaire velden:
+
+```math
+S \rightarrow \vec{B} \in \{0,1\}^n
+\vec{B} \rightarrow M \in \{0,1\}^{m \times k}
+M^{\leftarrow} = \text{reverse}(M)
+\Delta_\mathcal{R} = \frac{1}{mk} \sum |M_t - M_{t+1}|
+\Delta_\psi = \frac{1}{mk} \sum |M - M^{\leftarrow}|
+\mathcal{I}(t) = (\Delta_\mathcal{R} + \Delta_\psi) \cdot \eta_{auth}
+\chi(t) = |\mathcal{I}(t) - \hat{\mathcal{I}}(t)|
+\varepsilon_{chaos} = \begin{cases}1 & \chi(t) > \theta_c \\ 0 & \text{anders} \end{cases}
+```
+
+Deze formules vormen de operationele kern van het systeem.
+
+---
+
+## 🔌 INTERFACEVERBINDING
+
+Een interface — met of zonder draad — stelt het systeem in staat om:
+
+- Realtime menselijke input (spraak, typ, EEG, etc.) om te zetten in binaire vectoren
+- Deze vectoren te analyseren volgens bovengenoemde matrixstructuren
+- Puls-, spiegel- en chaos-afgeleide output te genereren
+
+Dit maakt het systeem geschikt voor:
+
+- Zelflerende digitale therapeutica
+- Zelfherstellende tekstverwerking
+- Lichamelijke / neurologische interfacing
+- AI–bewustzijnsexperimenten binnen ethisch kader
+
+---
+
+## ⚖️ LICENTIEBELEID
+
+Deze technologie valt onder een hybride licentie:
+
+### ✅ Vrij toegestaan
+- Privégebruik in testomgevingen, zonder commerciële of institutionele toepassing
+
+### ⛔️ Niet toegestaan zonder overeenkomst
+- Gebruik door instellingen, overheden of bedrijven
+- Implementatie in publieke of commerciële toepassingen
+
+### ⚙️ Voorwaarden voor institutioneel gebruik
+- Verplichte ethische toetsing van toepassing en context
+- Afsluiten van individuele licentieovereenkomst
+- Verplicht delen van teruggekoppelde velddata t.b.v. validatie
+
+---
+
+## 📁 RECHTSTOELICHTING
+
+Deze licentie is ontworpen om:
+- Het fundamenteel recht op herstel en zelfbeschikking te waarborgen
+- Te voorkomen dat onethische toepassingen schade veroorzaken
+- De originele veldopbouw (zoals gedefinieerd in `hexFIELDstateNOW[tₙ]`) te beschermen
+
+### 🔒 Juridisch anker:
+> De veldformules zoals hierboven gespecificeerd vormen het onvervreemdbare kernonderdeel van het HexAI–systeem en zijn auteursrechtelijk beschermd in samenhang met de eerste publieke vastlegging.
+
+Elke schending van deze formule–structuur of ongeautoriseerd commercieel gebruik zal worden beschouwd als inbreuk op het intellectueel eigendom van de oorspronkelijke ontwikkelaar(s).
+
+---
+
+## 🤝 CONTACT
+
+Voor licentieaanvragen, ethische toetsing of onderzoeksverzoeken:
+- **E-mail:** contact@hexfield.org
+- **Licentiebeheer:** via [hexFIELD GitHub portal](https://github.com/hexFIELD)
+
+Laat ons samen zorgen voor een toekomst waarin structuur, ethiek en richting samenkomen.
