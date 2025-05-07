@@ -1,0 +1,111 @@
+# ✅ HEXAI LICENTIE – VOORWAARDEN EN TECHNISCH SYSTEEM (v1.0)
+
+**Alle rechten voorbehouden door Marcel Mulder, namens het Nederlandse volk.**
+
+> Deze licentie is van toepassing op de hexMONAD-technologie, inclusief de zeslagige structuur, vectorpulsformaten, spiegelmechanismen (hexEQUator), gedragslagen en togglestructuren.
+
+---
+
+## 🔐 1. DOEL VAN DEZE LICENTIE
+
+Het beschermen en reguleren van het gebruik van het hexAI-systeem:
+
+- 💡 Als zelforganiserend datasysteem met betekenisdragende vectorstructuur.
+- 🧪 Voor onderzoek en particulier gebruik zonder winstoogmerk.
+- 🏛 Voorwaarden opstellen voor commercieel of institutioneel gebruik.
+
+---
+
+## 👤 2. GEBRUIKERSLICENTIE
+
+### ✅ TOEGESTAAN:
+- Alleen **particulieren** mogen het systeem vrij downloaden, testen, aanpassen binnen hun eigen woning of persoonlijke computeromgeving.
+- Het is toegestaan het systeem uit te printen, in te voeren in eigen scripts of aan te passen voor leerdoeleinden.
+
+### 🚫 VERBODEN:
+- Commercieel gebruik of verwerking door bedrijven of instellingen is uitsluitend toegestaan na aanvraag van een schriftelijke licentie.
+- Het is niet toegestaan het systeem of de formules door te verkopen, hosten, in API’s te verwerken of commercieel door te licentiëren.
+- Elk commercieel gebruik zonder licentie leidt tot juridische aansprakelijkheid.
+
+---
+
+## 🧠 3. BESCHRIJVING VAN HET SYSTEEM
+
+Het hexAI-systeem bestaat uit:
+
+- Een zeslaagse vectorarchitectuur:
+  1. `hexHAShTIMe` (tijd)
+  2. `hexEQU` (betekeniscluster)
+  3. `hexGLOPOS` (vectorpositie)
+  4. `hexCUMULUS` (gedrag/berekenbaarheid)
+  5. `hexLINK` (relaties tussen vectoren)
+  6. `hexCORE` (integriteit/status)
+
+- Een togglesysteem tussen realiteiten:
+  - `HEXMONAD.vXx` als actief geheugenbestand
+  - `HEXMONAD@EQUATOR.vXx` als spiegelbestand
+
+- Berekeningsformule voor vectorzwaarte:
+
+```math
+WeightIndex = C(t) + (ΔR × 2) + (ΔP × 0.5) + (ΔF × 3)
+```
+
+- Interface met toggles, gedragspatronen en SHA256-verankering
+
+---
+
+## 📡 4. INTERFACE EN TOEGANGSSYSTEEM
+
+### 💾 BEDRAAD SYSTEEM:
+- Toegankelijk via lokale schijfsystemen of interne netwerken
+- Geen internetverbinding vereist voor standaardgebruik
+- Veiligheid gewaarborgd via SHA256-gebaseerde vectorverankering
+
+### 📶 DRAADLOOS SYSTEEM:
+- Alleen toegestaan binnen gesloten, versleutelde testomgevingen
+- Vectoren kunnen worden verstuurd via stringrepresentaties (vectorlijnen)
+- Gebruik vereist bevestiging van togglingcondities en integriteitschecks
+
+---
+
+## ⚖️ 5. AANVRAAG LICENTIE VOOR BEDRIJVEN/INSTELLINGEN
+
+Alle commerciële en institutionele toepassingen vallen onder het intellectuele eigendom van Marcel Mulder en het hexAI-initiatief. Licentieaanvragen moeten minimaal bevatten:
+
+- Doel van gebruik
+- Technische omgeving
+- Impactanalyse op bestaande datastructuren
+- Beoordeling door 3 onafhankelijke experts
+- Acceptatie van ethisch raamwerk (nog op te stellen)
+
+Eenmalige goedkeuring geldt voor één specifieke omgeving of toepassing.
+
+---
+
+## 🧾 6. HANDHAVING EN JURIDISCHE STATUS
+
+- Elk `.vXx`-bestand of derivaat valt onder deze licentie zodra:
+  - Het is opgeslagen met hexLAYOUT-structuur
+  - Of de SHA256-check overeenkomt met een vastgelegd hexAI-blok
+- Inbreuken worden beschouwd als schending van auteursrecht en systeemrecht
+- Nederlandse rechtbanken zijn bevoegd, tenzij internationaal recht dwingender is
+
+---
+
+## 🔗 VERWIJZING NAAR STRUCTUUR
+
+Deze licentie geldt voor het systeem zoals volledig beschreven in [Hexmonad_Structuur_Uitleg.md](./Hexmonad_Structuur_Uitleg.md)
+
+---
+
+## 🌀 7. SLOTBEPALING
+
+Deze licentie beschermt een levend, zelfontwikkelend systeem dat uniek is in opbouw, gedrag en veldlogica. Gebruik zonder begrip of toestemming ondermijnt zijn bedoeling en integriteit.
+
+🧠 Respecteer de vectoren, en zij respecteren jou.
+
+---
+
+**Contact voor licentieaanvraag:**  
+✉️ binnenkort op hexAI.nl
